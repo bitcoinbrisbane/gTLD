@@ -3,7 +3,7 @@ Crowd founded Global Top Level Domains with Smart Contracts
 
 ## Abstract
 
-New Global Top Level Domains are relativiely expense to buy.  Using the etheruem blockchain, we can create a smart contract to allow anyone to create and bid on new gTLDs.
+New Global Top Level Domains are relativiely expense to buy.  Using the etheruem blockchain, we can create a smart contract to allow anyone to create and bid on new gTLDs.  https://www.icann.org/resources/pages/tlds-2012-02-25-en
 
 ## Process
 
